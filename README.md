@@ -1,0 +1,1 @@
+# Sentio-Mood-Based-Home-Automation-and-Journaling-using-IoT
